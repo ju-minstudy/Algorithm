@@ -1,6 +1,6 @@
 # Algorithm
 ## JAVA 알고리즘을 공부합니다 
-1. [String](string)
+1. [String](#string)
 2. Array
 3. Two pointers, Sliding window
 4. HashMap, TreeSet
