@@ -1,7 +1,7 @@
 # Algorithm
 ## JAVA 알고리즘을 공부합니다 
-1. [String](#1.-string)
-2. [Array](#2.-array)
+1. [String](#1.string)
+2. [Array](#2.array)
 3. Two pointers, Sliding window
 4. HashMap, TreeSet
 5. Stack Queue
