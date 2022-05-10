@@ -1,7 +1,7 @@
 # Algorithm
 ## JAVA 알고리즘을 공부합니다 
-1. [String](#string)
-2. Array
+1. [String](#1.string)
+2. [Array](#2.array)
 3. Two pointers, Sliding window
 4. HashMap, TreeSet
 5. Stack Queue
@@ -38,5 +38,5 @@
 
 | 문제 | 학습날짜 | 완료 |문제 |
 | ------ | -- | -- |----------- |
-|1 |2022-05-09 | |큰 수 출력하기 |
-|2| 2022-05-09| | 보이는 학생 |
+|1 |2022-05-09 |☑️ |큰 수 출력하기 |
+|2| 2022-05-09| ☑️| 보이는 학생 |
